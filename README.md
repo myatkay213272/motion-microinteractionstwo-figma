@@ -22,7 +22,7 @@ A video demo of all interactions is available on Google Drive:
 
 ## 🎨 Design Preview (Images)
 
-![Category View](category.png)  
+![Category View](category1.png)  
 ![Cart Open](cart1.png)  
 ![Cart with Delete Option](cart2.png)
 
