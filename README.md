@@ -25,6 +25,10 @@ A video demo of all interactions is available on Google Drive:
 ![Category View](category1.png)  
 ![Cart Open](cart1.png)  
 ![Cart with Delete Option](cart2.png)
+![Add to Cart View](AddtoCard1.png)  
+![Add to Cart View](AddtoCard2.png)  
+![Add to Cart View](AddtoCard3.png)  
+
 
 
 ## 🎨 Figma Project
